@@ -6,4 +6,5 @@
 * cd /root/ca
 * ./install.sh
 
-#### credits: [jamielinux.com](https://jamielinux.com/docs/openssl-certificate-authority/)
+#### credits: 
+* [jamielinux.com](https://jamielinux.com/docs/openssl-certificate-authority/)
