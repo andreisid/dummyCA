@@ -7,5 +7,4 @@
 * sudo ./install.sh
 
 
-#### credits: 
-* [jamielinux.com](https://jamielinux.com/docs/openssl-certificate-authority/)
+
